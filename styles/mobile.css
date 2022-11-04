@@ -64,3 +64,8 @@ footer {
   text-align: center;
   font-style: italic;
 }
+.resize-img{
+  width: 100%;
+  height:auto;
+}
+
